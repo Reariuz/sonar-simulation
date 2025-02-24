@@ -42,33 +42,33 @@ python simulation-001_Sonar-Parabelförmig.py
 ## Simulationen  
 ### 1. Parabelförmige Anordnung  
 `simulation-001_Sonar-Parabelförmig.py`  
-_Beschreibung der Simulation_  
+_einfache vorgefertigte Anordnung mit einer einzigen frequenz_  
 ![Parabelförmig](img/sonar_parabelförmig.png)  
 
 ### 2. Parabelförmig mit mehreren Quellen  
 `simulation-002_Sonar-Parabelförmig-multiple.py`  
-_Beschreibung der Simulation_  
+_mehrere Frequenzen sowie parabelgrößen die durchgetestet weden. Erstellt einen Ordner voll Bilder_  
 ![Parabelförmig Multiple](img/Sonar_parabelförmig_multi.png)  
 ![Parabelförmig Multiple 2](img/Sonar_parabelförmig_multi_2.png) 
 
 ### 3. Lineare Anordnung mit mehreren Quellen  
 `simulation-003_Sonar-Linear-multiple.py`  
-_Beschreibung der Simulation_  
+_veränderung des Plots auf eine fokusrichtung_  
 ![Linear Multiple](img/Sonar_linear_multiple_(1).png)  
 ![Linear Multiple](img/Sonar_linear_multiple_(2).png)  
 
 ### 4. 3D-hexagonale Anordnung  
 `simulation-004_Sonar-3D-hexagonal.py`  
-_Beschreibung der Simulation_  
+_versuch dreidimensionale darstellung: Noch offen_  
 ![3D Hexagonal](img/sonar_hexagonal_3d.png)  
 
 ### 5. Lineare Analyse  
 `simulation-011_Sonar-Linar-Analysis.py`  
-_Beschreibung der Simulation_  
+_muss noch gefixt werden TODO_  
 
 ### 6. ML-basierte Vollanalyse  
 `simulation13_ML-Full.py`  
-_Beschreibung der Simulation_  
+_Das volle Plot als Video und Bilder mit evolutionärem Lernen_  
 ![ML Vollanalyse](img/Sonar_ML_full_plot.png)  
 
 ## Voraussetzungen  
